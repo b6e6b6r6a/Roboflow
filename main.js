@@ -25,8 +25,8 @@ $(function () {
 
     var publishable_key = "ahRwhaKB6jU7l0wvD8uA";
     var toLoad = {
-        model: "hard-hat-sample-pbmai",
-        version: 2
+        model: "sizhat",
+        version: 1
     };
 
     const loadModelPromise = new Promise(function (resolve, reject) {
