@@ -23,7 +23,7 @@ $(function () {
             });
         });
 
-    var publishable_key = "ahRwhaKB6jU7l0wvD8uA";
+    var publishable_key = "";
     var toLoad = {
         model: "sizhat",
         version: 1
